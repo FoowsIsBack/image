@@ -1,4 +1,1 @@
 # Image
-```sh
-example
-```
